@@ -10,7 +10,7 @@ const IndexPage = () => (
       <a href="https://codepen.io/-J0hn-/" target="_blank">
         Codepen
       </a>{' '}
-      by building pens with what I learned
+      by building pens with what I learned.
     </p>
     <p>This is my first hackathon and very excited to participate!</p>
     <Link to="/page-2/">Go to page 2</Link>
